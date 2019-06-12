@@ -10,7 +10,7 @@ by adding `amenities` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:amenities, "~> 0.1.0"}
+    {:amenities, "~> 1.0.0"}
   ]
 end
 ```
